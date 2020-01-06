@@ -6,7 +6,7 @@ import CountdownRenderProps from "./components/countdown-render-props-ui";
 import CountdownHooks from "./components/coundown-hooks-ui";
 
 function App() {
-  const date = new Date("2020-01-01"); // New year!
+  const date = new Date("2021-01-01"); // New year!
 
   return (
     <div className="App">
